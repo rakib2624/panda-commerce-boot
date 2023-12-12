@@ -15,3 +15,20 @@
     background-image: linear-gradient(to bottom, #ff589b, #ff136f 100%);
     border: none;
 }
+.watch, .bag, .shoes {
+    color: white;
+    border-radius: 10px;
+    padding: 5% 0;
+}
+.watch {
+    background-image: linear-gradient(to right, goldenrod, gold 100%);
+}
+.bag {
+    background-image: linear-gradient(to right, #ff136f, #ff589b 100%);
+}
+.shoes {
+    background-image: linear-gradient(to right, darkblue, blue);
+}
+.categories img {
+    width: 30%;
+}
